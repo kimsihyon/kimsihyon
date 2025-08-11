@@ -1,6 +1,3 @@
-<!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=KIM%20SIHYON&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20%7C%20Kafka%20%26%20Kubernetes&descAlignY=55&descAlign=50)
-
 <!-- 인삿말 -->
 <h2 align="center">👋 Welcome to my GitHub!</h2>
 <p align="center">안녕하세요! 백엔드 개발자 <b>김시현</b>입니다.<br>
@@ -52,6 +49,3 @@ Kafka 기반 MSA, Spring Boot, Kubernetes 환경에서의 개발과 운영을 �
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kimsihyon&count_bg=%2379C83D&title_bg=%23897171&icon=&icon_color=%23A27676&title=hits&edge_flat=false"/>
 </p>
-
-<!-- 푸터 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
