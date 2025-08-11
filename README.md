@@ -1,43 +1,44 @@
-[![kimsihyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsihyon)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 프로필 상단 이미지 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=KIM%20SIHYON&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub!&descAlignY=55&descAlign=62)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fkimsihyon&count_bg=%2379C83D&title_bg=%23897171&icon=&icon_color=%23A27676&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimsihyon&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsihyon&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
-<h1 align="left">안녕 👋 What's up?</h1>
+<!-- 방문자 수 -->
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kimsihyon&count_bg=%2379C83D&title_bg=%23897171&icon=&icon_color=%23A27676&title=hits&edge_flat=false"/>
+</p>
 
-###
+---
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+## 👋 About Me
+- 🌱 Learning: **Spring Boot, Kafka, Kubernetes**
+- 💻 Interests: **Backend Development, Microservices, DevOps**
+- 🎯 Goal: Build scalable & high-availability systems
+- ⚡ Fun fact: I break things to learn how they work 😎
 
-###
+---
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
+## 🛠 Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40"/>
 </div>
 
-###
+---
+
+## 📫 Contact
+[![Gmail Badge](https://img.shields.io/badge/-kimsh1128@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kimsh1128@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Notion&logoColor=white)](https://your-portfolio-link)
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
