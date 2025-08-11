@@ -47,5 +47,5 @@ Kafka 기반 MSA, Spring Boot, Kubernetes 환경에서의 개발과 운영을 �
 
 <!-- 방문자 수 -->
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kimsihyon&count_bg=%2379C83D&title_bg=%23897171&icon=&icon_color=%23A27676&title=hits&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimsihyon&count_bg=%2379C83D&title_bg=%23897171&icon=&icon_color=%23A27676&title=hits&edge_flat=false"/>
 </p>
