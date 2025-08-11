@@ -1,44 +1,57 @@
-<!-- 프로필 상단 이미지 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=KIM%20SIHYON&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub!&descAlignY=55&descAlign=62)
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=KIM%20SIHYON&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20Kafka%20%26%20Kubernetes&descAlignY=55&descAlign=50)
 
-<!-- GitHub Stats -->
+<!-- 인삿말 -->
+<h2 align="center">👋 Welcome to my GitHub!</h2>
+<p align="center">안녕하세요! 백엔드 개발자 <b>김시현</b>입니다.<br>
+Kafka 기반 MSA, Spring Boot, Kubernetes 환경에서의 개발과 운영을 즐깁니다.</p>
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimsihyon&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsihyon&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kimsihyon&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsihyon&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+---
+
+## 🛠 Tech Stack
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" title="Apache Kafka" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" />
+</div>
+
+---
+
+## 📌 About Me
+- 🌱 **현재 학습 중:** Kafka, Kubernetes, CI/CD
+- 💻 **관심 분야:** MSA, 대규모 트래픽 처리, DevOps
+- 🎯 **목표:** 안정적이고 확장성 있는 백엔드 서비스 구축
+- ⚡ **Fun fact:** 버그를 해결하며 커피 소비량이 늘어나는 개발자 ☕
+
+---
+
+## 📬 Contact
+<p align="center">
+  <a href="mailto:kimsh1128@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+</p>
+
+---
 
 <!-- 방문자 수 -->
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kimsihyon&count_bg=%2379C83D&title_bg=%23897171&icon=&icon_color=%23A27676&title=hits&edge_flat=false"/>
 </p>
 
----
-
-## 👋 About Me
-- 🌱 Learning: **Spring Boot, Kafka, Kubernetes**
-- 💻 Interests: **Backend Development, Microservices, DevOps**
-- 🎯 Goal: Build scalable & high-availability systems
-- ⚡ Fun fact: I break things to learn how they work 😎
-
----
-
-## 🛠 Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40"/>
-</div>
-
----
-
-## 📫 Contact
-[![Gmail Badge](https://img.shields.io/badge/-kimsh1128@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kimsh1128@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Notion&logoColor=white)](https://your-portfolio-link)
-
-<!-- Footer -->
+<!-- 푸터 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
