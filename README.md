@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=KIM%20SIHYON&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20Kafka%20%26%20Kubernetes&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=KIM%20SIHYON&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20%7C%20Kafka%20%26%20Kubernetes&descAlignY=55&descAlign=50)
 
 <!-- 인삿말 -->
 <h2 align="center">👋 Welcome to my GitHub!</h2>
